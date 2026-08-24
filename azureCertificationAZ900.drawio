@@ -77,7 +77,13 @@
           <mxGeometry height="30" width="60" x="800" y="860" as="geometry" />
         </mxCell>
         <mxCell id="trGheGZ_EiXsZYnrmkpT-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="can be focused on performance predicability&amp;nbsp; or cost predictability" vertex="1">
-          <mxGeometry height="30" width="60" x="830" y="980" as="geometry" />
+          <mxGeometry height="30" width="60" x="830" y="981" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="performance predictability" vertex="1">
+          <mxGeometry height="60" width="120" x="910" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cost&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;predictability&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="910" y="890" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
