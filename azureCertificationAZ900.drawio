@@ -4,8 +4,80 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="trGheGZ_EiXsZYnrmkpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="60" as="geometry" />
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cloud Concepts" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Shared responsibility Model" vertex="1">
+          <mxGeometry height="60" width="180" x="50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="On premise" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Paas" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Iaas" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Saas" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cloud Models" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Private" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hybrid" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Public" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Multicloud" vertex="1">
+          <mxGeometry height="30" width="190" x="430" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;h3 style=&quot;text-align:justify;tab-stops:9.0pt&quot;&gt;consumption-based model&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="40" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Pay for what you use" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scalability" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HIgh Availability" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vertical" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Horizontal" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Resources&lt;div&gt;Capabilities&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="number of Resources" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="increase or decrease" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="add or substract" vertex="1">
+          <mxGeometry height="30" width="60" x="800" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Predictability" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reliability" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Recover from failures and continue to function" vertex="1">
+          <mxGeometry height="30" width="60" x="800" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="trGheGZ_EiXsZYnrmkpT-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="can be focused on performance predicability&amp;nbsp; or cost predictability" vertex="1">
+          <mxGeometry height="30" width="60" x="830" y="980" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
